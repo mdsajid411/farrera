@@ -4,7 +4,7 @@ import Image from "next/image";
 const ResponsiveAppBar: React.FC = () => {
   return (
     <nav className="bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-16 mt-6">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-[118px]">
         {/* Logo and navigation links */}
         <div className="flex-shrink-0 flex items-center">
           <div className="flex space-x-4 justify-center items-center">
